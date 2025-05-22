@@ -1,0 +1,71 @@
+# .NET build outputs
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.DS_Store
+
+# VS Code
+.vscode/
+.history/
+
+# Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Core environment files
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Logs
+*.log
+logs/
+
+# npm/Yarn artifacts (if you add JS frontends)
+node_modules/
+dist/
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Build results
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+.build/
+
+# dotnet tool restore cache
+.dotnet/
+
+# Test results
+TestResults/
+*.trx
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Others
+_ReSharper*/
+*.vspscc
+*.vssscc
+*.vs/
+*.coverage
+*.coveragexml
+
+# Local secrets (optional)
+.env
+.env.*
