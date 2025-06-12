@@ -1,0 +1,13 @@
+# Data/SteveJobs.txt
+
+Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American entrepreneur, industrial designer, and business magnate. He co-founded Apple Computer, Inc. in 1976 with Steve Wozniak and Ronald Wayne, and was widely recognized as a pioneer of the personal computer revolution.
+
+Highlights of his career:
+
+- 1976: Launched the Apple I computer  
+- 1984: Introduced the Macintosh  
+- 1985–1997: Left Apple; founded NeXT and acquired Pixar  
+- 1997: Returned to Apple as CEO, leading the development of the iMac, iPod, iPhone, and iPad  
+- 2011: Resigned as Apple CEO; passed away later that year
+
+Jobs was known for his vision of integrating elegant hardware and software design, his perfectionism, and his keynote “Stevenotes.” Under his leadership, Apple grew into one of the world’s most valuable and influential technology companies.

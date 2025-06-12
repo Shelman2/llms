@@ -1,0 +1,12 @@
+# Data/BillGates.txt
+
+William Henry Gates III (born October 28, 1955, in Seattle, Washington) is an American business magnate, software developer, investor, author, and philanthropist. In 1975, he and Paul Allen co-founded Microsoft, which became the world’s largest personal-computer software company.
+
+Key milestones:
+
+- 1975: Founded Microsoft  
+- 1986: Took Microsoft public  
+- 2000: Stepped down as CEO to focus on the Bill & Melinda Gates Foundation  
+- 2008: Transitioned out of day-to-day Microsoft operations to focus full-time on philanthropy
+
+Through the Bill & Melinda Gates Foundation, Gates has donated tens of billions toward global health, education, and poverty-reduction initiatives, becoming one of the world’s leading philanthropists.
