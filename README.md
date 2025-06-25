@@ -10,6 +10,7 @@ This repository is meant as a practical playground for developers interested in 
 
 - [OllamaSqlExpert](./OllamaSqlExpert): A .NET console chatbot that answers SQL/database questions, powered by Ollama running a local LLM.
 - [SimpleRAGWithOllama](./SimpleRAGOllama): A streamlined implementation of a Retrieval-Augmented Generation (RAG) system using C# and the Microsoft Kernel Memory library integrated with Ollama.
+- [SemanticKernelAgentDemo](./SemanticKernelAgentDemo): This project demonstrates how to build local AI assistants using [Microsoft Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/) and [Ollama](https://ollama.com/) with no cloud dependencies or API keys required.
 - (More coming soon!)
 
 ---
