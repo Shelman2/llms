@@ -3,7 +3,7 @@
 This project demonstrates how to build local AI assistants using [Microsoft Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/) and [Ollama](https://ollama.com/) with no cloud dependencies or API keys required.
 
 **Read the full walkthrough:**  
-[Building Local AI Agents with Semantic Kernel and Ollama](https://medium.com/@sheldonrcohen/experimenting-with-local-llms-in-net-building-a-sql-expert-chatbot-with-ollama-39d66402e97e)
+[Building Local AI Agents with Semantic Kernel and Ollama](https://medium.com/@sheldonrcohen/building-local-ai-agents-with-semantic-kernel-and-ollama-d946c9a18103)
 
 This is part of the [LLMs](../) demo repository.
 
