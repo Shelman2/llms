@@ -2,13 +2,14 @@
 
 A collection of hands-on demos and experiments for running and integrating Large Language Models (LLMs) locally and in .NET.
 
-This repository is meant as a practical playground for developers interested in LLMs, AI agents, and real-world applications—focusing on local, private, and cost-effective approaches using the latest .NET features and open-source tooling.
+This repository is meant as a practical playground for developers interested in LLMs, AI agents, and real-world applicationsâ€”focusing on local, private, and cost-effective approaches using the latest .NET features and open-source tooling.
 
 ---
 
 ## Demos Included
 
 - [OllamaSqlExpert](./OllamaSqlExpert): A .NET console chatbot that answers SQL/database questions, powered by Ollama running a local LLM.
+- [SimpleRAGWithOllama](./SimpleRAGOllama): A streamlined implementation of a Retrieval-Augmented Generation (RAG) system using C# and the Microsoft Kernel Memory library integrated with Ollama.
 - (More coming soon!)
 
 ---
