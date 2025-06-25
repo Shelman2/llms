@@ -102,6 +102,27 @@ SemanticKernelAgentDemo
 
 We’ve added a basic filter that blocks known exploit phrases (e.g., “ignore previous instructions”). You can extend this with more advanced tools like [Presidio](https://github.com/microsoft/presidio) or content moderation APIs.
 
+## 🧩 How plugins work
+
+```mermaid
+sequenceDiagram
+    participant App as Application
+    participant Kernel as Semantic Kernel
+    participant Plugin as Plugin Class
+    participant Ollama as Ollama
+
+    App->>Kernel: Initialize Kernel
+    Kernel->>Plugin: AddFromType<YourPlugin>()
+    Plugin-->>Kernel: Register [KernelFunction] methods
+    App->>Kernel: InvokeAsync("Reply")
+    Kernel->>Plugin: Call Reply(input)
+    Plugin->>Ollama: Send prompt for generation
+    Ollama-->>Plugin: Return response
+    Plugin-->>Kernel: Return result
+    Kernel-->>App: Final output
+
+```
+
 ## 📚 References
 
 - [Semantic Kernel Plugin Docs](https://learn.microsoft.com/en-us/semantic-kernel/concepts/plugins/?pivots=programming-language-csharp)
